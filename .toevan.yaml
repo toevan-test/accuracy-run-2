@@ -1,0 +1,5 @@
+version: 2
+scope:
+  exclude:
+    - paths: [testdata/]
+      reason: "Test fixtures, not production code"
