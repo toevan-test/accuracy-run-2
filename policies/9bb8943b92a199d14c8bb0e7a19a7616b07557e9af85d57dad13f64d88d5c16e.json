@@ -1,0 +1,1 @@
+{"canonicalizer_version":1,"exceptions":[],"exclude":[{"families":[],"paths":["testdata/"],"reason":"Test fixtures, not production code","rules":[]}],"schema_version":2}
